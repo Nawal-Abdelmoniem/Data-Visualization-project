@@ -1,0 +1,7 @@
+dash
+dash_bootstrap_components
+openpyxl
+numpy
+pandas
+plotly
+gunicorn
